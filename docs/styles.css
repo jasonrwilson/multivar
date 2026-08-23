@@ -1,0 +1,63 @@
+.figure {
+  margin: auto;
+  text-align: center;
+}
+
+.cell-code {
+  background-color: #fdfdfd;
+  border: 1px solid #e0e0e0;
+  padding: 0.25em 0.5em;
+  margin: 0.25em 0;
+  font-size: 0.9em;
+}
+
+.cell-output pre {
+  background-color: #eef6ff;
+  border-left: 2px solid #6699cc;
+  padding: 0.4em 0.6em;
+  margin: 0.5em 0;
+  font-family: monospace;
+  font-size: 0.9em;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+.theorem {
+  background-color: #f5f7fa;
+  border-left: 4px solid #4a6fa5;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.definition {
+  background-color: #f5f7fa;
+  border-left: 4px solid #4a6fa5;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.definition > p:first-child {
+  margin-top: 0;
+}
+
+.exercise {
+  background-color: #fffaf0;
+  border-left: 4px solid #d99a2b;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.proposition {
+  background-color: #f5f7fa;
+  border-left: 4px solid #4a6fa5;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+.proposition > p:first-child {
+  margin-top: 0;
+}
