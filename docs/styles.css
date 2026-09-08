@@ -61,3 +61,11 @@
 .proposition > p:first-child {
   margin-top: 0;
 }
+
+.lecture-notes img {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  margin: 0 auto 1rem auto;
+}

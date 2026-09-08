@@ -86,6 +86,13 @@
     "text": "1. Multivariable Functions\n\n1.1 A Multivariable Optimization Problem\n1.2 Partial Derivatives"
   },
   {
+    "objectID": "index.html#multiple-integrals",
+    "href": "index.html#multiple-integrals",
+    "title": "Notes on Multivariable Calculus for Data Science",
+    "section": "2. Multiple Integrals",
+    "text": "2. Multiple Integrals\n\n2.1 Double Integrals\n2.2 General Regions"
+  },
+  {
     "objectID": "chapter1/section1_multi_opt.html",
     "href": "chapter1/section1_multi_opt.html",
     "title": "A Multivariable Optimization Problem",
@@ -119,6 +126,18 @@
       "Home",
       "1. Multivariable Functions",
       "1.1 A Multivariable Optimization Problem"
+    ]
+  },
+  {
+    "objectID": "chapter2/section1_double_int.html",
+    "href": "chapter2/section1_double_int.html",
+    "title": "Double Integrals",
+    "section": "",
+    "text": "Exercise: Try the Midpoint Rule\nUse the Midpoint Rule to estimate\n\\[\n\\iint_R (2x^2+y^2)\\,dA,\n\\qquad R=[0,1]\\times[0,1].\n\\]\nExperiment with increasingly fine partitions and observe how the midpoint approximation changes. What do you think the exact value of the integral is?\n\nNote: The 3D view has been rotated to make the approximation easier to see.\n\n▶ Run in Google Colab",
+    "crumbs": [
+      "Home",
+      "2. Multiple Integrals",
+      "2.1 Double Integrals"
     ]
   }
 ]
